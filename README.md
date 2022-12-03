@@ -11,7 +11,7 @@ N/A
 ## Usage
 
 For reference use, to understand CSS flex layouts.
-Click the link for the live page [CSS Cheatsheet](https://github.com/CSS-Cheatsheet/index.html)
+Click the link for the live page [CSS Cheatsheet](https://chriscds.github.io/CSS-Cheatsheet/index.html)
 
 ## Credits
 
