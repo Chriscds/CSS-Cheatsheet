@@ -4,9 +4,9 @@
 
 CSS Cheatsheet to show how CSS Flexbox, rows, columns and grid layouts work. For reference use.
 
-## Installation
+## Screenshot
 
-N/A
+![CSS Cheatsheet Screenshot](assets/css/images/css-cheatsheet.png)
 
 ## Usage
 
